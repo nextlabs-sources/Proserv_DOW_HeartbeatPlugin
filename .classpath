@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/jar/common-framework-types.jar"/>
+	<classpathentry kind="lib" path="lib/jar/common-framework.jar"/>
+	<classpathentry kind="lib" path="lib/jar/common-pf.jar"/>
+	<classpathentry kind="lib" path="lib/jar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/jar/server-framework.jar"/>
+	<classpathentry kind="lib" path="lib/jar/client-pf.jar"/>
+	<classpathentry kind="lib" path="lib/jar/server-pf.jar"/>
+	<classpathentry kind="lib" path="lib/jar/server-base.jar"/>
+	<classpathentry kind="lib" path="lib/jar/server-dcsf.jar"/>
+	<classpathentry kind="lib" path="lib/jar/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="lib/jar/common-dictionary.jar"/>
+	<classpathentry kind="lib" path="lib/jar/crypt.jar"/>
+	<classpathentry kind="lib" path="lib/jar/server-dictionary.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
